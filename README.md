@@ -4,7 +4,7 @@
 # 👋 Salut, moi c’est **Najat SALHI**
 
 🎓 Élève ingénieure en **Management et Gouvernance des Systèmes d’Information (MGSI)** à l’**ENSA d’Oujda**.  
-💡 Passionnée par les **systèmes d’information**, l’**intelligence artificielle appliquée à la santé**, et la **transformation digitale**.  
+💡 Passionnée par les **systèmes d’information**, l’**intelligence artificielle appliquée **, et **transformation digitale** ,**developement web **
 🚀 À la recherche d’un **stage de fin d’études (PFE)** à partir de **février 2026**.
 
 ---
